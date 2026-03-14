@@ -10,7 +10,7 @@ The scenario was as follows: I was hired as a junior data analyst by a city s Sm
 I also carried out mathematical modelling tasks, including predicting pollution levels using linear models, calculating probabilities of certain environmental conditions, and performing optimisation to identify the best allocation of limited city resources. The clarity, depth, and accuracy of my analysis determined the value of the recommendations I provided to the Smart City team.
 
 # Preview
-PM2.5 Levels in the Southern Region
+PM2.5 Levels Over Time in the Southern Region
 
 <p align="center">
   <img src="PM25LevelsOTSouthRegion.png" alt="Discrete Mathematics Coursework">
