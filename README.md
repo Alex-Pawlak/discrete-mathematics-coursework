@@ -40,3 +40,5 @@ PM2.5 Levels in the Southern Region
  ├──DMA-CW-Task4-TrendAnalysis.py
  ├──DMA-CW-Task5-Solving Systems of Equations.py
 ```
+# License
+MIT © 2026 Alex Pawlak
