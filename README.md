@@ -1,7 +1,7 @@
 # About 
 The aim of this individual assignment was for me to perform a statistical and mathematical analysis of a synthetic Smart City Environmental Monitoring dataset, giving me practical experience in extracting insights from large-scale urban sensor data. I presented my findings in the form of a consultancy-style analytical report, using clear visual representations and providing justification for my conclusions based on evidence from the dataset. 
 
-The scenario was as follows: I was hired as a junior data analyst by a city s Smart Infrastructure Department to help assess environmental and traffic conditions across multiple regions. I was provided with a dataset containing information about traffic flow, PM2.5 pollution levels, noise measurements, temperature readings, day types, and geographical regions. My task was to explore and analyse this dataset to answer important operational questions, such as: 
+The scenario was as follows: I was hired as a junior data analyst by a city's Smart Infrastructure Department to help assess environmental and traffic conditions across multiple regions. I was provided with a dataset containing information about traffic flow, PM2.5 pollution levels, noise measurements, temperature readings, day types, and geographical regions. My task was to explore and analyse this dataset to answer important operational questions, such as: 
 - How pollution and noise levels varied across different regions of the city
 - What time periods or areas experienced the highest traffic flow 
 - Whether there was a measurable relationship between traffic volume and pollution 
